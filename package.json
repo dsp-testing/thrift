@@ -49,7 +49,7 @@
     "buffer-equals": "^1.0.4",
     "commander": "^2.14.1",
     "connect": "^3.6.6",
-    "eslint": "^5.7.0",
+    "eslint": "^9.33.0",
     "eslint-config-prettier": "^3.1.0",
     "eslint-plugin-prettier": "^3.0.0",
     "html-validator-cli": "^4.1.4",
